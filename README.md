@@ -6,7 +6,7 @@ I use it as a reference for wiring CI on similar projects.
 
 ## Stack
 
-- TypeScript (Node 20+)
+- TypeScript (Node **22+**; see `engines` in `package.json`)
 - ESLint
 - Node built-in test runner
 - GitHub Actions
